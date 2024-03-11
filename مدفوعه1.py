@@ -1,5 +1,3 @@
-print("تم توقيف الاداه ")
-exit()
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
@@ -28,7 +26,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2024, 3, 18, 00, 00 ,00)
+g= datetime.datetime(2024, 2, 18, 00, 00 ,00)
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
  print("     "+'اهلا حبيبي . الاداه توقفت ❤')
