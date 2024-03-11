@@ -26,10 +26,10 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2024, 3, 10, 00, 00 ,00)
+g= datetime.datetime(2024, 3, 18, 00, 00 ,00)
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
- print("     "+'اهلا حبيبي . الاداه توقفت ❤')
+ print("     "+' اهلا حبيبي . الاداه توقفت راسل المطور لتفعيل @XXQ20❤')
  print('\n\n')
  print(x)
  
