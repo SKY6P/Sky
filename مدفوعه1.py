@@ -26,7 +26,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2024, 2, 18, 00, 00 ,00)
+g= datetime.datetime(2024, 2, 08, 00, 00 ,00)
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
  print("     "+' اهلا حبيبي . الاداه توقفت راسل المطور لتفعيل @XXQ20❤')
